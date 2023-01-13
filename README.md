@@ -8,7 +8,7 @@
 - Tenho 29 anos e sou formado em Direito.
 - Atualmente estudo na [Trybe](https://www.betrybe.com/) para realizar minha transição de carreira para o desenvolvimento web.
 - O curso é composto por 4 módulos, nesta ordem: <b>Fundamentos, Front-end, Back-end e Ciência da Computação.</b>
-- Atualmente estou cursando o módulo de <b>Back-end</b> e você pode acompanhar meu andamento no [README deste repositório](https://github.com/andre-usf/trybe-exercicios).
+- Atualmente estou cursando o módulo de <b>Back-end</b> e você pode acompanhar meu andamento no [README neste repositório](https://github.com/andre-usf/trybe-exercicios).
 
 --------------------------------------
 
