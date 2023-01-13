@@ -7,6 +7,8 @@
 
 - Tenho 29 anos e sou formado em Direito.
 - Atualmente estudo na [Trybe](https://www.betrybe.com/) para realizar minha transição de carreira para o desenvolvimento web.
+- O curso é composto por 4 módulos, nesta ordem: <b>Fundamentos, Front-end, Back-end e Ciência da Computação.</b>
+- Atualmente estou cursando o módulo de <b>Back-end</b> e você pode acompanhar meu andamento no [README deste repositório](https://github.com/andre-usf/trybe-exercicios).
 
 --------------------------------------
 
@@ -23,7 +25,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
 --------------------------------------
     
