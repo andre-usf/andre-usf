@@ -5,10 +5,19 @@
 
 #### Sobre mim:
 
-- Tenho 29 anos e sou formado em Direito.
-- Atualmente estudo na [Trybe](https://www.betrybe.com/) para realizar minha transição de carreira para o desenvolvimento web.
-- O curso é composto por 4 módulos, nesta ordem: <b>Fundamentos, Front-end, Back-end e Ciência da Computação.</b>
-- Atualmente estou cursando o módulo de <b>Back-end</b> e você pode acompanhar meu andamento no [README neste repositório](https://github.com/andre-usf/trybe-exercicios).
+:mortar_board: Tenho 29 anos e sou formado em Direito.
+
+:dart: Busco uma oportunidade de experiência profissional como desenvolvedor de software, para aplicar e desenvolver ainda mais minhas competências na área.
+
+:computer: Estou **aprendendo Programação Orientada a Objetos (POO) e princípios SOLID** utilizando TypeScript. 
+
+:racing_car: Gosto de passar o tempo com minha família, ler e aprender coisas novas, acompanhar o mercado financeiro e assistir Fórmula 1. 
+
+:seedling: Estudo na [Trybe](https://www.betrybe.com/) para realizar minha transição de carreira para o desenvolvimento web. 
+
+:rocket: O curso é composto por 4 módulos, nesta ordem: **Fundamentos, Front-end, Back-end e Ciência da Computação**. 
+
+:heavy_check_mark: Estou cursando o módulo de **Back-end** e você pode acompanhar meu andamento no [README neste repositório](https://github.com/andre-usf/trybe-exercicios).
 
 --------------------------------------
 
@@ -54,8 +63,6 @@
 
 
 <!--
-**andre-usf/andre-usf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
