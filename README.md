@@ -5,7 +5,7 @@
 
 #### Sobre mim:
 
-:mortar_board: Tenho 30 anos, sou formado em Direito e atualmente sou Desenvolvedor Fullstack Jr.
+:computer: Tenho 30 anos, sou formado em Direito e atualmente sou Desenvolvedor Fullstack Jr.
 
 :dart: Busco aprimorar minhas competências em Back-End e Node.JS por meio da experiência e leitura.
 
