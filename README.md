@@ -5,11 +5,9 @@
 
 #### Sobre mim:
 
-:mortar_board: Tenho 29 anos e sou formado em Direito.
+:mortar_board: Tenho 30 anos, sou formado em Direito e atualmente sou Desenvolvedor Fullstack Jr.
 
-:dart: Busco uma oportunidade de experiência profissional como desenvolvedor de software, para aplicar e desenvolver ainda mais minhas competências na área.
-
-:computer: Estou **aprendendo Programação Orientada a Objetos (POO) e princípios SOLID** utilizando TypeScript. 
+:dart: Busco aprimorar minhas competências em Back-End e Node.JS por meio da experiência e leitura.
 
 :racing_car: Gosto de passar o tempo com minha família, ler e aprender coisas novas, acompanhar o mercado financeiro e assistir Fórmula 1. 
 
