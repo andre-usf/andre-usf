@@ -7,7 +7,7 @@
 
 :computer: Tenho 30 anos, sou formado em Direito e atualmente sou Desenvolvedor Fullstack Jr.
 
-:dart: Busco aprimorar minhas competências em Back-End e Node.JS por meio da experiência e leitura.
+:dart: Busco aprimorar minhas competências em Back-End e Node.JS pela experiência, cursos e leitura.
 
 :racing_car: Gosto de passar o tempo com minha família, ler e aprender coisas novas, acompanhar o mercado financeiro e assistir Fórmula 1. 
 
