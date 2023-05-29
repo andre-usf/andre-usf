@@ -15,7 +15,7 @@
 
 :rocket: O curso é composto por 4 módulos, nesta ordem: **Fundamentos, Front-end, Back-end e Ciência da Computação**. 
 
-:heavy_check_mark: Estou cursando o módulo de **Back-end** e você pode acompanhar meu andamento no [README neste repositório](https://github.com/andre-usf/trybe-exercicios).
+:heavy_check_mark: Estou cursando o módulo de **Ciência da Computação** e você pode acompanhar meu andamento no [README neste repositório](https://github.com/andre-usf/trybe-exercicios).
 
 --------------------------------------
 
