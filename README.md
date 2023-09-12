@@ -11,11 +11,7 @@
 
 :racing_car: Gosto de passar o tempo com minha família, ler e aprender coisas novas, acompanhar o mercado financeiro e assistir Fórmula 1. 
 
-:seedling: Estudo na [Trybe](https://www.betrybe.com/) para realizar minha transição de carreira para o desenvolvimento web. 
-
-:rocket: O curso é composto por 4 módulos, nesta ordem: **Fundamentos, Front-end, Back-end e Ciência da Computação**. 
-
-:heavy_check_mark: Estou cursando o módulo de **Ciência da Computação** e você pode acompanhar meu andamento no [README neste repositório](https://github.com/andre-usf/trybe-exercicios).
+:seedling: Concluí o curso de Desenvolvimento Web Fullstack na [Trybe](https://www.betrybe.com/) para realizar minha transição de carreira. 
 
 --------------------------------------
 
